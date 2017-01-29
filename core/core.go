@@ -16,7 +16,7 @@ import (
 	"github.com/golang/glog"
 	"github.com/diplombmstu/rest-server-template/resources/events"
 	"github.com/diplombmstu/rest-server-template/core/settings"
-	"github.com/diplombmstu/rest-server-template/sse-service/sse_server"
+	"github.com/diplombmstu/rest-server-template/sse"
 	"github.com/diplombmstu/rest-server-template/resources/users"
 )
 

@@ -3,7 +3,7 @@ package events
 import (
     "github.com/diplombmstu/rest-server-template/domain"
     "net/http"
-    "github.com/diplombmstu/rest-server-template/sse-service/sse_server"
+    "github.com/diplombmstu/rest-server-template/sse"
 )
 
 type Options struct {
