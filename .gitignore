@@ -23,3 +23,10 @@ _testmain.go
 *.test
 *.prof
 gin-bin
+
+/lwp-server.iml
+.idea
+/sse-service/sse-service.iml
+/out/
+/projectFilesBackup/
+/keys/
